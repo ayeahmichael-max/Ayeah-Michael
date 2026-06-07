@@ -1,26 +1,31 @@
 # Hello, I'm Michael
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+British Army soldier transitioning into Cloud and Systems Engineering. Passionate about hands-on learning, infrastructure, automation, and troubleshooting. All projects here are built in real lab environments and documented to demonstrate practical skills, problem-solving, and continuous technical growth.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Focused on developing expertise in Cloud, Systems, and Security Engineering through a structured learning path covering Networking Fundamentals, Active Directory, Splunk SIEM, CompTIA Security+, AZ-900, AZ-104, and hands-on portfolio projects designed to demonstrate practical technical skills and real-world problem-solving.
+
+## 📈 Roadmap Progress
+
+✔ Networking Fundamentals — Completed  
+⏳ Active Directory & SIEM (Splunk) — In Progress  
+🔜CompTIA Security+ — Planned  
+🔜 Microsoft AZ-900 — Planned  
+🔜 Microsoft AZ-104 — Planned
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                                                                                | Associated Project                                                                             |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Cisco IOS, Packet Tracer, IP Subnetting, DNS, DHCP, VLAN Configuration                                               | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Networking</a>          |
+| Active Directory, Group Policy, PowerShell, AD Users & Computers (ADUC), Hybrid Identity                             | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Identity & AM</a>       |
+| Splunk (SPL), ELK Stack, Microsoft Sentinel, Winlogbeat, Log Analysis                                                | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">SIEM & Monitoring</a>   |    
+| Nessus Vulnerability Scanning, Incident Response (NIST Framework), Threat Detection, System Hardening                | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Cybersecurity</a>         |
+| Microsoft Azure, VM, Virtual Networks (VNets), RBAC, Bicep Infrastructure as Code (IaC), Azure Monitor, Azure Backup | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Cloud & Infrastructure</a>|
+| PowerShell, Bash, Azure CLI, KQL, SPL, Python (Learning)                                                             | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Automation & Scripting</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -55,7 +60,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
-- Test Project
+## 🚀 Featured Projects
+
+🟡 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Splunk Threat Detection</a>
+   - 4 SPL correlation searches mapped to Active Directory attack patterns  
+   - SPL vs KQL detection logic comparison for SIEM tuning
+
+🟡 Splunk AD Monitoring Lab
+   - Universal Forwarder deployed on DC01  
+   - Real-time login, lockout, and privilege escalation dashboard
+
+🔵 Hybrid AD + Azure Lab
+   - On-prem Active Directory synced with Microsoft Entra ID (Azure AD)  
+   - AD Connect configured with validated SSO integration
+
+🔴 Azure Admin Environment
+   - Hub-and-spoke VNet architecture  
+   - RBAC implementation using Azure IAM  
+   - Infrastructure as Code with Bicep  
+   - Azure Monitor + Backup configured
+
+🟣 Microsoft Sentinel SOC Lab
+   - 5 custom KQL detection rules  
+   - Incident response playbooks (automation + triage workflows)
+
+🟢 Secure SMB Infrastructure Lab
+   - pfSense firewall + segmented VLAN design  
+   - Active Directory domain environment  
+   - Dual SIEM setup (Splunk + ELK Stack)
