@@ -48,7 +48,8 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+
+## Certifications In Progress ⏳
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
@@ -56,31 +57,32 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-## 🚀 Featured Projects
+## Projects In Progress ⏳
 
-🟡 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Splunk Threat Detection</a>
+🧪 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Splunk Threat Detection</a>
    - 4 SPL correlation searches mapped to Active Directory attack patterns  
    - SPL vs KQL detection logic comparison for SIEM tuning
 
-🟡 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Splunk AD Monitoring Lab</a>
+🧪 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Splunk AD Monitoring Lab</a>
    - Universal Forwarder deployed on DC01  
    - Real-time login, lockout, and privilege escalation dashboard
 
-🔵 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Hybrid AD + Azure Lab</a>
+🔗 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Hybrid AD + Azure Lab</a>
    - On-prem Active Directory synced with Microsoft Entra ID (Azure AD)  
    - AD Connect configured with validated SSO integration
 
-🔴 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Azure Admin Environment</a>
+☁️ <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Azure Admin Environment</a>
    - Hub-and-spoke VNet architecture  
    - RBAC implementation using Azure IAM  
    - Infrastructure as Code with Bicep  
    - Azure Monitor + Backup configured
 
-🟣 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Microsoft Sentinel SOC Lab</a>
+🛡️ <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Microsoft Sentinel SOC Lab</a>
    - 5 custom KQL detection rules  
    - Incident response playbooks (automation + triage workflows)
 
-🟢 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Secure SMB Infrastructure Lab</a>
+🏢 <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Secure SMB Infrastructure Lab</a>
    - pfSense firewall + segmented VLAN design  
    - Active Directory domain environment  
    - Dual SIEM setup (Splunk + ELK Stack)
+
