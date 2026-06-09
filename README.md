@@ -17,10 +17,10 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 
 ## Skills
 
-| Skill                                                                                                                | Associated Project                                                                             |
+| Skill                                                                                                                | Current Stack                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Cisco IOS, Packet Tracer, IP Subnetting, DNS, DHCP, VLAN Configuration                                               | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Networking</a>          |
-| Active Directory, Group Policy, PowerShell, AD Users & Computers (ADUC), Hybrid Identity                             | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Identity & Access Management</a>       |
+| Cisco IOS, Packet Tracer, IP Subnetting, DNS, DHCP, VLAN Configuration                                               | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Networking</a>           |
+| Active Directory, Group Policy, PowerShell, AD Users & Computers (ADUC), Hybrid Identity                         | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Identity & Access Management</a>|
 | Splunk (SPL), ELK Stack, Microsoft Sentinel, Winlogbeat, Log Analysis                                                | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">SIEM & Monitoring</a>   |    
 | Nessus Vulnerability Scanning, Incident Response (NIST Framework), Threat Detection, System Hardening                | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Cybersecurity</a>         |
 | Microsoft Azure, VM, Virtual Networks (VNets), RBAC, Bicep Infrastructure as Code (IaC), Azure Monitor, Azure Backup | <a href="https://github.com/ayeahmichael-max/Detection-Lab/tree/main">Cloud & Infrastructure</a>|
@@ -52,9 +52,9 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 ## Certifications In Progress ⏳
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%2B-Planned-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/AZ--900-Planned-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AZ--104-Planned-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ## Projects In Progress ⏳
