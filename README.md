@@ -49,23 +49,15 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
    - Dual SIEM setup (Splunk + ELK Stack)
 
 
-## 📈 Roadmap Progress
 
-✔ Networking Fundamentals — Completed  
-⏳ Active Directory & SIEM (Splunk) — In Progress  
-🔜CompTIA Security+ — Planned  
-🔜 Microsoft AZ-900 — Planned  
-🔜 Microsoft AZ-104 — Planned
+## 📈 Certification Roadmap & Progress
 
+| Certification Track | Provider | Current Status | Estimated Completion |
+| :--- | :--- | :--- | :--- |
+|  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>     | CompTIA   | 🟩 Active Learning / In Progress | Next Month |
+| <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Scheduled Baseline | Upcoming Track |
+| <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Capstone Target Architecture | Upcoming Track |
 
-
-## 🎓 Certifications In Progress
-
-<div>
-<img src="https://img.shields.io/badge/Security%2B-Planned-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/AZ--900-Planned-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AZ--104-Planned-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</div>
 
 
 ## 📫 Connect
@@ -74,71 +66,6 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <div>
 Open to: IT Support L2+ · Sysadmin · Cloud Admin · SOC Analyst
-
-
-
-# 📁 Systems & Cloud Engineering Portfolio
-
-Welcome to my master systems and cloud engineering portfolio. This repository serves as a centralized architectural blueprint and index for my hands-on labs, engineering capstones, technical competencies, and ongoing certification tracks.
-
-> **Professional Persona:** British Army soldier transitioning into Cloud/Systems Engineering. My background delivers structured problem-solving, operational high-stakes discipline, and security-cleared operational reliability to enterprise IT environments.
-
----
-
-## 📈 Certification Roadmap & Progress
-
-| Certification Track | Provider | Status | Target Date |
-| :--- | :--- | :--- | :--- |
-| **CompTIA Security+** | CompTIA | 🟩 In Progress | Next Month |
-| **AZ-900: Azure Fundamentals** | Microsoft | 🟨 Upcoming | Q3 2026 |
-| **AZ-104: Azure Administrator** | Microsoft | 🟨 Upcoming | Q4 2026 |
-
----
-
-## 🛠 Technical Skills Matrix
-
-* **Cloud Infrastructure:** Azure VMs, VNets (Hub-Spoke Architecture), RBAC, Azure Monitor, Bicep IaC
-* **Identity & Access Management:** Active Directory Domain Services (AD DS), Azure AD / Entra ID, Group Policy Objects (GPOs), ADUC
-* **Network Engineering:** Cisco IOS, TCP/IP Subnetting (VLSM), DNS Zones, DHCP Scope configuration, VLANs
-* **Security & SIEM Operation:** Splunk Enterprise, Microsoft Sentinel, KQL (Kusto Query Language), SPL, Nessus Vulnerability Scanning
-* **Automation & Scripting:** PowerShell (Bulk Provisioning / Management), Bash, Azure CLI
-
----
-
-## 📌 Featured Capstone Projects
-
-### 🔵 [hybrid-ad-azure-lab](https://github.com/YOUR_USERNAME/hybrid-ad-azure-lab)
-**Summary:** Implementation of a hybrid identity architecture showcasing an on-premises Active Directory infrastructure safely synchronized to Azure Entra ID using Azure AD Connect.
-
-### 🟡 [splunk-ad-threat-detection](https://github.com/YOUR_USERNAME/splunk-ad-threat-detection)
-**Summary:** Operational deployment of a Splunk SIEM ecosystem designed to parse security event logs and utilize specialized SPL correlation searches to catch Windows Active Directory domain attack signatures.
-
-### 🔴 [azure-admin-environment](https://github.com/YOUR_USERNAME/azure-admin-environment)
-**Summary:** A production-ready Azure environment utilizing a Hub-and-Spoke VNet design topology engineered via Bicep Infrastructure-as-Code (IaC), secured with tight RBAC, and tracked via Azure Monitor.
-
----
-
-## 🧪 Infrastructure & Engineering Labs Index
-
-### 🔐 Security & Operations
-* 🟣 **[soc-sentinel-lab](https://github.com/YOUR_USERNAME/soc-sentinel-lab)** – Integration of Microsoft Sentinel SIEM with 5 custom-tuned KQL detection queries for tracking malicious actions.
-* 🟢 **[secure-smb-infrastructure](https://github.com/YOUR_USERNAME/secure-smb-infrastructure)** – End-to-end edge-to-endpoint network using a pfSense firewall implementation, isolated VLANs, and dual monitoring pipelines via Splunk and ELK.
-
-### 🖥️ Systems & Core Infrastructure
-* 🏢 **[active-directory-lab](https://github.com/YOUR_USERNAME/active-directory-lab)** – Windows Server 2022 deployment creating a corporate domain hierarchy, employing automated PowerShell bulk user provisioning scripts, and deploying organizational unit GPOs.
-* 🖥️ **[windows-server-dns-dhcp](https://github.com/YOUR_USERNAME/windows-server-dns-dhcp)** – Enterprise network scope provisioning on Windows Server 2022 featuring forward/reverse lookup verification.
-
-### 🌐 Networking
-* 🌐 **[networking-lab-packet-tracer](https://github.com/YOUR_USERNAME/networking-lab-packet-tracer)** – Complete multi-subnet topology configured inside Cisco Packet Tracer exhibiting fully documented inter-VLAN routing tables and access-lists.
-
----
-
-## 📫 Professional Contact & Verification
-
-* **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
-* **Email:** your.professional.email@domain.com
-* **Availability:** Open to IT Support Tier 2+, Systems Administration, Cloud Administration, and Junior SOC Analyst positions.
-
 ---
 _Last Updated: June 2026_
 
