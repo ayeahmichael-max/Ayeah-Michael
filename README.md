@@ -51,6 +51,10 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 
 
 ## 📈 Certification Roadmap & Progress
+![Security](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Windows_Server-0078D4?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-FF5733?logo=splunk&style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-AZ104_Target-0078D4?logo=microsoftazure&style=flat-square)
 
 | Certification Track | Provider | Current Status | Estimated Completion |
 | :--- | :--- | :--- | :--- |
@@ -67,5 +71,28 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 <div>
 Open to: IT Support L2+ · Sysadmin · Cloud Admin · SOC Analyst
 ---
-_Last Updated: June 2026_
+# 👋 Hi, I'm M. Flint — IT & Cloud Engineer in Progress
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+## 🎯 What I'm Building
+[cite_start]British Army soldier transitioning into Cloud and Systems Engineering[cite: 118, 343]. [cite_start]My background provides structured problem-solving, security clearance eligibility, and operational discipline under pressure[cite: 119]. 
+
+[cite_start]I am systematically building a transparent, verified roadmap covering core enterprise data networking, directory identity services, modern security infrastructure (SIEM architectures), and public cloud engineering[cite: 344]. [cite_start]No passive video tutorials—just production-grade lab frameworks[cite: 345].
+
+## 🛠 Technical Skill Stack Matrix
+* [cite_start]**Networking:** Cisco IOS · Packet Tracer · Subnetting (VLSM) · DNS · DHCP · pfSense [cite: 126, 127]
+* [cite_start]**Identity & Access Management:** Active Directory DS · Group Policy (GPO) · PowerShell · Entra ID (Hybrid Sync) 
+* [cite_start]**Security Operations & SIEM:** Splunk Core (SPL) · Microsoft Sentinel (KQL) · Nessus Essentials · Incident Response 
+* [cite_start]**Cloud Infrastructure:** Azure Virtual Machines · Hub-Spoke VNets · Azure RBAC & Policy · Bicep (IaC) · Azure Monitor 
+* [cite_start]**Automation & Scripting:** PowerShell · Bash · Azure CLI · KQL · SPL 
+
+## 📈 Engineering Roadmap Progress
+```text
+Phase 1: Core Networking & Server Foundations █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ [100% Complete]
+Phase 2: Active Directory & Local SIEM Ingest  █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ [100% Complete]
+Phase 3: Threat Analytics & Defensive Firewalls █ █ █ █ █ █ █ █ █ █ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ [50% In Progress]
+Phase 4: Public Cloud Architecture & Governance ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ [Upcoming]
+Phase 5: Automated Enterprise Deployments (IaC) ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ [Upcoming]
