@@ -21,16 +21,16 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 
 ## 📈 Certification Roadmap & Progress
 ![Active Directory](https://img.shields.io/badge/Active_Directory-Windows_Server-0078D4?style=flat-square)
-![Security](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-FF5733?logo=splunk&style=flat-square)
+![Security](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-AZ900-0078D4?logo=microsoftazure&style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-AZ104_Target-0078D4?logo=microsoftazure&style=flat-square)
 
 | Certification Track | Provider | Current Status | Estimated Completion |
 | :--- | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=windows&logoColor=white" /> | Microsoft | 🟩 Active Learning / In Progress | Next Month |
-| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>     | CompTIA   | 🟨 Scheduled Baseline | Upcoming Track |
 | <img src="https://img.shields.io/badge/-SIEM-FF6F00?&style=for-the-badge&logo=securityscorecard&logoColor=white" /> | Splunk | 🟨 Scheduled Baseline | Upcoming Track |
+| <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>     | CompTIA   | 🟨 Scheduled Baseline | Upcoming Track |
 | <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Scheduled Baseline | Upcoming Track |
 | <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Capstone Target Architecture | Upcoming Track |
 
