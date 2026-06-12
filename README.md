@@ -25,6 +25,7 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 ![Security](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-AZ900-0078D4?logo=microsoftazure&style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-AZ104_Target-0078D4?logo=microsoftazure&style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&style=flat-square)
 
 | Certification Track | Provider | Current Status | Estimated Completion |
 | :--- | :--- | :--- | :--- |
@@ -33,6 +34,8 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 | <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>     | CompTIA   | 🟨 Scheduled Baseline | Upcoming Track |
 | <img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Scheduled Baseline | Upcoming Track |
 | <img src="https://img.shields.io/badge/-AZ--104-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />  | Microsoft | 🟨 Capstone Target Architecture | Upcoming Track |
+| <img src="https://img.shields.io/badge/-Cisco%20CCNA-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />  | Microsoft | 🟨 Capstone Target Architecture | Upcoming Track |
+
 
 
 
