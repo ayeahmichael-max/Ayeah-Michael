@@ -12,7 +12,7 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 ## 🛠 Skills
 | Projects                                                    | Associated Lab                               |
 |-------------------------------------------------------------|------------------------------------------------|
-| Cisco IOS · Packet Tracer · Subnetting · DNS · DHCP         | <a href="https://google.com">Networking</a>    |
+| Cisco IOS · Packet Tracer · Subnetting · DNS · DHCP         | <a href="https://github.com/ayeahmichael-max/IT-Cloud-Portfolio">Networking</a>    |
 | Active Directory · Group Policy · PowerShell · ADUC         | <a href="https://google.com">Identity</a>      |
 | Nessus · Splunk · ELK Stack · Incident Response             | <a href="https://google.com">Security Lab </a> |
 | Azure VMs · VNets · RBAC · Bicep · Azure Monitor            |   <a href="https://google.com">Cloud Lab </a>  |
