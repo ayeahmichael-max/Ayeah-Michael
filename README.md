@@ -10,13 +10,13 @@ Focused on developing expertise in Cloud, Systems, and Security Engineering thro
 
 
 ## 🛠 Skills
-| Projects                                                      | Associated Lab                             |
-|-------------------------------------------------------------|--------------------------------------------|
-| Cisco IOS · Packet Tracer · Subnetting · DNS · DHCP         | <a href="https://google.com">Networking</a>|
-| Active Directory · Group Policy · PowerShell · ADUC         | <a href="https://google.com">Identity</a>  |
-| Nessus · Splunk · ELK Stack · Incident Response             | Security Lab                               |
-| Azure VMs · VNets · RBAC · Bicep · Azure Monitor            | Cloud Lab                                  |
-| PowerShell · Bash · Azure CLI · KQL · SPL                   | Scripting                                  |      
+| Projects                                                    | Associated Lab                               |
+|-------------------------------------------------------------|------------------------------------------------|
+| Cisco IOS · Packet Tracer · Subnetting · DNS · DHCP         | <a href="https://google.com">Networking</a>    |
+| Active Directory · Group Policy · PowerShell · ADUC         | <a href="https://google.com">Identity</a>      |
+| Nessus · Splunk · ELK Stack · Incident Response             | <a href="https://google.com">Security Lab </a> |
+| Azure VMs · VNets · RBAC · Bicep · Azure Monitor            |   <a href="https://google.com">Cloud Lab </a>  |
+| PowerShell · Bash · Azure CLI · KQL · SPL                   |   <a href="https://google.com">Scripting </a>  |      
 
 
 ## 📈 Certification Roadmap & Progress
